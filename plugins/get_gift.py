@@ -40,7 +40,7 @@ except:
         print('An Erorr with: ' + str(errors))
         exit(0)
         
-API_ID = "22256614"
+API_ID = "22665066"
 API_HASH = "4f9f53e287de541cf0ed81e12a68fa3b"
 
 async def get_gift(session):
